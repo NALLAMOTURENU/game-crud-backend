@@ -116,6 +116,11 @@ The following REST endpoints are available:
 - `PUT /api/games/{id}` - Update a game
 - `DELETE /api/games/{id}` - Delete a game
 
+![image](https://github.com/user-attachments/assets/2dce621b-c403-4d26-a450-8b87fbb4382c)
+![image](https://github.com/user-attachments/assets/7ad85ae1-d3fd-475d-b628-c906846b8532)
+
+
+
 ## Swagger Documentation
 - Access Swagger UI at `http://localhost:8080/swagger-ui/index.html` when running locally.
 - On deployment, replace `localhost:8080` with your deployed URL (e.g., `https://game-crud-backend.onrender.com/swagger-ui/index.html`).
