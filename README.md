@@ -118,8 +118,9 @@ The following REST endpoints are available:
 
 ![image](https://github.com/user-attachments/assets/2dce621b-c403-4d26-a450-8b87fbb4382c)
 ![image](https://github.com/user-attachments/assets/7ad85ae1-d3fd-475d-b628-c906846b8532)
-
-
+![image](https://github.com/user-attachments/assets/8718e619-767a-41f1-86ca-9ee6c31dc9a6)
+![image](https://github.com/user-attachments/assets/365d252a-b304-4749-98db-8bce6a01c77b)
+![image](https://github.com/user-attachments/assets/91fe8fdf-c9a5-494f-9930-51bac3da827c)
 
 ## Swagger Documentation
 - Access Swagger UI at `http://localhost:8080/swagger-ui/index.html` when running locally.
